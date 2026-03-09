@@ -7,7 +7,7 @@ const experiences = [
         location: 'Hanoi, Vietnam',
         date: '2/2025 – Present',
         details: [
-            'Researched Geometry Informed Neural Operator Transformer (GINOT) combined with Navier-Stokes equaions to predict indoor airflow with geometry-awareness.',
+            'Researched, applied and modified different SOTA deep learning models to predict indoor airflow with geometry-awareness.',
             'Achieved nearly identical results but with 20000 times faster compared to traditional CFD method. Currently expand training dataset to achieve geometry generalization',
         ],
         link: 'https://github.com/AnhDuc174/GINOT-Navier-Stokes',
