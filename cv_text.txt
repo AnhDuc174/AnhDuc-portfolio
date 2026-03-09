@@ -1,0 +1,46 @@
+Nguyen Anh Duc
+VinUniversity, Hanoi, Vietnam
+♂phone+84 947 945 461/envel⌢perobertoducdz1704@gmail.com/linkedinAnh Duc Nguyen/githubAnhDuc174
+About Me
+I am currently a Sophomore student at VinUniversity, studying Data Science.I have a proven track record
+in delivering high-quality solutions and contributing to organizational success.I have hands-on experience
+through course projects and personal projects related to data, including building forecasting systems and
+neural networks.I aim to leverage my skills to solve real-world challenges in areas such as environment or
+business, contributing innovative solutions and driving tangible impact beyond the classroom.
+Work Experience
+Center for Environmental Intelligence (CEI) – VinUniversityHanoi, Vietnam
+Research Assistant2/2025 – Present
+•Researched Geometry-Adaptive Physics-Informed Neural Networks (PINNs) combined with CFD to
+model and optimize indoor airflow.
+•Developed and evaluated neural network models for energy-efficient and comfort-aware smart building
+applications.
+Center for Materials Information and Technology (CMIT) – VinUniversityHanoi, Vietnam
+Research Assistant12/2025 – Present
+•Applied AI models to predict material properties using data from simulations, open databases, and
+experiments.
+•Performed feature engineering, data preprocessing, and model benchmarking against traditional meth-
+ods.
+Education
+VinUniversity
+Data Science|Bachelor of Science in Data Science|Hanoi, Vietnam
+Sep 2024 – Jul 2028
+IELTS: 7.5 SAT: 1520
+Completed coursework: Data Science and Databases, plan to pursue advanced studies in Machine Learning
+Skills
+Hard Skills
+Python, SQL, MySQL, OpenAI API, Web Development (HTML, CSS, JavaScript),
+Data Analysis (pandas, numpy, matplotlib), Prompt Engineering, API Integration
+Soft Skills
+Analytical Thinking, Problem Solving, Team Collaboration, Self-Learning, Communication
+Highlighted Related Projects
+Ninja Battle (Naruto Game)
+Created a two-player game where players control Naruto-style avatars using real-time hand gestures, com-
+bining computer vision and AI for an engaging interactive experience.
+Smart-IndoorCARE
+Developed an indoor air quality dashboard for real-time PM2.5 tracking and short-term forecasting using
+LightGBM, enhanced with an AI assistant that provides automated health guidance.
+NFL Prediction
+Developed models to predict player trajectories in NFL pass plays for the 2026 Big Data Bowl, leveraging
+tracking data to analyze movement from throw to catch or incompletion.
+1
+---
